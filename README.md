@@ -3,4 +3,4 @@
 
 В данном репозитории выкладываю подготовленные шрифты на базе open-source шрифтов Terminus. Устанавливаются простым копированием в корень карты памяти. 
 
-"# Foxwell-Cyrillic-Fonts" 
+![Screenshot](screenshot.png) 
